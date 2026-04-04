@@ -81,18 +81,25 @@
 
 ---
 
-## ✍️ Dev Quote of the Day
+## ✨ Quotes I Follow
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&center=true&vCenter=true&width=600&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.+–+John+Johnson" />
 </p>
 
 ---
 
-## 🔝 Most Contributed Repos
+## 📬 Open For Opportunities
+
+- 💼 Frontend Developer Roles  
+- 🌐 Full-Stack Developer Roles  
+- 🎓 Internships  
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Akshayakumar0207&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <b>Let's build something amazing together 🚀</b>
 </p>
+
+---
 
 ---
