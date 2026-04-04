@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
 
 - 🎯 Frontend-focused Full-Stack Developer with strong problem-solving skills  
 - 💡 Passionate about building high-performance, scalable, and user-friendly applications  
