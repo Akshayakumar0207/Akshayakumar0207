@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
+<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="270" />
 
 - 🎯 Frontend-focused Full-Stack Developer with strong problem-solving skills  
 - 💡 Passionate about building high-performance, scalable, and user-friendly applications  
