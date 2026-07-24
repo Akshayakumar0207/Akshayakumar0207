@@ -44,7 +44,7 @@
 
 ### 🛠️ Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,androidstudio, render, supabase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,androidstudio,render,supabase" />
 </p>
 
 ---
